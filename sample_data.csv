@@ -7,10 +7,3 @@ id,first_name,last_name,email,department,city,state,salary,hire_date,active
 6,Patricia,Jones,patricia.jones@example.com,HR,Atlanta,GA,64000,2023-02-14,true
 7,Michael,Miller,michael.miller@example.com,Engineering,Portland,OR,99000,2021-09-01,true
 8,Jennifer,Davis,jennifer.davis@example.com,Marketing,Boston,MA,76000,2019-12-18,true
-9,William,Rodriguez,william.rodriguez@example.com,Sales,Miami,FL,71000,2022-05-25,false
-10,Elizabeth,Martinez,elizabeth.martinez@example.com,Finance,Phoenix,AZ,91000,2020-08-12,true
-11,Richard,Hernandez,richard.hernandez@example.com,Engineering,San Diego,CA,105000,2017-04-03,true
-12,Susan,Lopez,susan.lopez@example.com,HR,Dallas,TX,62000,2023-06-19,true
-13,Joseph,Gonzalez,joseph.gonzalez@example.com,Sales,Houston,TX,69000,2021-10-08,true
-14,Jessica,Wilson,jessica.wilson@example.com,Marketing,Nashville,TN,74000,2020-03-27,false
-15,Thomas,Anderson,thomas.anderson@example.com,Engineering,Raleigh,NC,98000,2019-01-15,true
